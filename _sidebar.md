@@ -1,14 +1,16 @@
-* [Getting Started](/)
+* **GETTING STARTED**
 
     * [Accessing AMS Portal](AccessingAMSPortal.md)
 
-* [Organization Unit](/)
+
+* **ORGANISATION UNIT**
 
     * [Sub-Business Unit](Sub-BusinessUnit.md)
 
     * [CostCentre](CostCentre.md)
 
-* [User Setting](/)
+
+* **USER SETTING**
 
     * [Creating a User](CreatingaUser.md)
 
@@ -18,7 +20,8 @@
 
     * [GrantPositontoUser](GrantpositiontoUser.md)
 
-* [Agency Setting](/)
+
+* **AGENCY SETTING**
 
     * [Skip Registration Tagging Check](SkipRegistrationTaggingCheck.md)
 
@@ -36,17 +39,20 @@
 
     * [Indicate Workday CCM Level for AOs](IndicateWorkdayCCMLevelforAOs.md)
 
-* [Location](/)
+
+* **LOCATION**
 
     * [Creating a New Location](CreatingaNewLocation.md)
 
         * [Using Excel Upload](CreateNewLocationviaExcelUpload.md)
 
-* [Asset Category](/)
+
+* **ASSET CATEGORY**
 
     * [Creating a New Asset Category](CreatingaNewAssetcategory.md)
 
-* [Code](/)
+
+* **CODE**
 
     * [Define New Asset Group](DefineNewAssetGroup.md)
 
@@ -54,19 +60,23 @@
 
     * [Define New Maintenance Condition](DefineNewMaintenanceCondition.md)
 
-* [Announcement](/)
+
+* **ANNOUNCEMENT**
 
     * [Creating an Announcement](CreatinganAnnouncement.md)
 
-* [Message Template](/)
+
+* **MESSAGE TEMPLATE**
 
     * [Creating Message Template](CreatingMessageTemplate.md)
 
-* [Workflow Escalation](/)
+
+* **WORKFLOW ESCALATION**
 
     * [Creating Workflow Escalation](CreatingWorkflowEscalation.md)
 
-* [Report Generation](/)
+
+* **REPORT GENERATION**
 
     * [Generating a report](Generatingareport.md)
 
@@ -76,7 +86,8 @@
 
     * [Save Layouts](SaveLayouts.md)
 
-* [Approval Process](/)
+
+* **APPROVAL PROCESS**
 
     * [Enable/Disable Approval Required](EnableDisable.md)
 
@@ -84,11 +95,13 @@
 
     * [Create New Approval Process](CreateNewApprovalProcess.md)
 
-* [2 Factor Authentication (2FA)](/)
+
+* **2 FACTOR AUTHENTICATION (2FA)**
 
     * [Enable 2FA to Access Admin Functions](Enable2FAtoAccessAdminFunctions.md)
 
-* [Reassign Task](/)
+
+* **REASSIGN TASK**
 
     * [Non-Stocktake Reconciliation Types](Non-StocktakeReconciliationTypes.md)
 
