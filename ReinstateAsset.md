@@ -2,7 +2,7 @@
 
 ## How do I Reinstate an Asset?
 
-**Note:** Record's reinstatement information will **not** interface to Finance System.
+**Note:** Record's reinstatement information will **not** be interfaced to Finance System.
 
 > Navigate to: **Agency Admin > System Administration > Agency Setting**.
 
