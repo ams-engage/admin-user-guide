@@ -1,108 +1,65 @@
 * **GETTING STARTED**
-
-    * [Accessing AMS Portal](AccessingAMSPortal.md)
-
+    * [Accessing AMS Portal](AccessingAMSPortal)
 
 * **ORGANISATION UNIT**
-
-    * [Sub-Business Unit](Sub-BusinessUnit.md)
-
-    * [CostCentre](CostCentre.md)
-
+    * [Sub-Business Unit](Sub-BusinessUnit)
+    * [CostCentre](CostCentre)
 
 * **USER SETTING**
-
-    * [Creating a User](CreatingaUser.md)
-
-    * [Creating a Non-WhitelistUser](CreatingaNon-WhitelistUser.md)
-
-        * [Using Excel Upload](CreatingaNon-WhitelistUserusingEx.md)
-
-    * [GrantPositontoUser](GrantpositiontoUser.md)
-
+    * [Creating a User](CreatingaUser)
+    * [Creating a Non-WhitelistUser](CreatingaNon-WhitelistUser)
+    * [GrantPositontoUser](GrantpositiontoUser)
 
 * **AGENCY SETTING**
-
-    * [Skip Registration Tagging Check](SkipRegistrationTaggingCheck.md)
-
-    * [Transit Interfaced Asset to Tagging Stage](TransitInterfacesAsset.md)
-
-    * [Skip stocktake verification check](Skipstocktakeverificationcheck.md)
-
-    * [ApprovalforAssetUpdate](ApprovalforAssetUpdate.md)
-
-    * [AssetIDformat](AssetIDFormat.md)
-
-    * [Enable Non-Whitelist Users](EnableNon-WhitelistUsers.md)
-
-        * [Upload Functions](UploadFunctions.md)
-
-    * [Indicate Workday CCM Level for AOs](IndicateWorkdayCCMLevelforAOs.md)
-
+    * [Skip Registration Tagging Check](SkipRegistrationTaggingCheck)
+    * [Transit Interfaced Asset to Tagging Stage](TransitInterfacesAsset)
+    * [Skip stocktake verification check](Skipstocktakeverificationcheck)
+    * [ApprovalforAssetUpdate](ApprovalforAssetUpdate)
+    * [AssetIDformat](AssetIDFormat)
+    * [Enable Non-Whitelist Users](EnableNon-WhitelistUsers)
+    * [Indicate Workday CCM Level for AOs](IndicateWorkdayCCMLevelforAOs)
 
 * **LOCATION**
-
-    * [Creating a New Location](CreatingaNewLocation.md)
-
-        * [Using Excel Upload](CreateNewLocationviaExcelUpload.md)
-
+    * [Creating a New Location](CreatingaNewLocation)
 
 * **ASSET CATEGORY**
-
-    * [Creating a New Asset Category](CreatingaNewAssetcategory.md)
-
+    * [Creating a New Asset Category](CreatingaNewAssetcategory)
 
 * **CODE**
-
-    * [Define New Asset Group](DefineNewAssetGroup.md)
-
-    * [Define New Reason for No Photo](DefineNewReason.md)
-
-    * [Define New Maintenance Condition](DefineNewMaintenanceCondition.md)
-
+    * [Define New Asset Group](DefineNewAssetGroup)
+    * [Define New Reason for No Photo](DefineNewReason)
+    * [Define New Maintenance Condition](DefineNewMaintenanceCondition)
 
 * **ANNOUNCEMENT**
-
-    * [Creating an Announcement](CreatinganAnnouncement.md)
-
+    * [Creating an Announcement](CreatinganAnnouncement)
 
 * **MESSAGE TEMPLATE**
-
-    * [Creating Message Template](CreatingMessageTemplate.md)
-
+    * [Creating Message Template](CreatingMessageTemplate)
 
 * **WORKFLOW ESCALATION**
-
-    * [Creating Workflow Escalation](CreatingWorkflowEscalation.md)
-
+    * [Creating Workflow Escalation](CreatingWorkflowEscalation)
 
 * **REPORT GENERATION**
-
-    * [Generating a report](Generatingareport.md)
-
-    * [Sorting Columns](SortingColumns.md)
-
-    * [Adding/Removing Columns](AddRemoveColumns.md)
-
-    * [Save Layouts](SaveLayouts.md)
-
+    * [Generating a report](Generatingareport)
+    * [Sorting Columns](SortingColumns)
+    * [Adding/Removing Columns](AddRemoveColumns)
+    * [Save Layouts](SaveLayouts)
 
 * **APPROVAL PROCESS**
-
-    * [Enable/Disable Approval Required](EnableDisable.md)
-
-    * [Create New Approval Hierarchy](CreateNewApprovalHierarchy.md)
-
-    * [Create New Approval Process](CreateNewApprovalProcess.md)
-
+    * [Enable/Disable Approval Required](EnableDisable)
+    * [Create New Approval Hierarchy](CreateNewApprovalHierarchy)
+    * [Create New Approval Process](CreateNewApprovalProcess)
 
 * **2 FACTOR AUTHENTICATION (2FA)**
-
-    * [Enable 2FA to Access Admin Functions](Enable2FAtoAccessAdminFunctions.md)
-
+    * [Enable 2FA to Access Admin Functions](Enable2FAtoAccessAdminFunctions)
 
 * **REASSIGN TASK**
+    * [Non-Stocktake Reconciliation Types](Non-StocktakeReconciliationTypes)
+    * [Stocktake Reconciliation Types](StocktakeReconciliationTypes)
 
-    * [Non-Stocktake Reconciliation Types](Non-StocktakeReconciliationTypes.md)
+* **PRINTING TEMPLATE**
+    * [Download Existing Printing Template](DownloadPT)
+    * [Upload Printing Template](UploadPT)
 
-    * [Stocktake Reconciliation Types](StocktakeReconciliationTypes.md)
+* **ASSET REINSTATEMENT**
+    * [Reinstating an Asset](ReinstateAsset)
